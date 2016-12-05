@@ -67,7 +67,7 @@
   "peerDependencies": {
     "react": ">=0.14.0",
     "react-dom": ">=0.14.0",
-    "webpack": "1 || ^2.1.0-beta"
+    "webpack": "1"
   },
   "devDependencies": {
     "ava": "~0.16.0",
@@ -94,7 +94,7 @@
     "sinon": "~1.17.6",
     "unexpected": "~10.18.1",
     "unexpected-react": "~3.2.4",
-    "webpack": "1.13.3 || ^2.1.0-beta"
+    "webpack": "1.13.3"
   },
   "scripts": {
     "test": "npm run lint && npm run test:ava",
